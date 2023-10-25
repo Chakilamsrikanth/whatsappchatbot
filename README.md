@@ -1,5 +1,4 @@
-# Whatsapp Chatbot
-# Chatting Bot Like Design (Likely more similar to Whatsapp interface)
+# Whatsapp Chatbot (Likely more similar to Whatsapp interface)
 
 **Live Site:** https://chakilamsrikanth.github.io/whatsappchatbot/
 
